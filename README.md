@@ -1,3 +1,6 @@
+
+
+
 <h1 align="center">Xin chào 👋, tôi là Vu Hoai Nam</h1>
 <h3 align="center">Một nhà phát triển đam mê Android, Backend, Tự động hóa và AI</h3>
 
@@ -28,17 +31,10 @@
 ---
 
 ## 🛠️ Ngôn ngữ và Công cụ:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,firebase,js,python,git,mysql,react" />
 </p>
+
 
 ---
 
@@ -50,7 +46,6 @@
 ---
 
 ## 📅 Lịch sử đóng góp GitHub của tôi
-
-```
-
-```
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vunameaut&theme=tokyo-night&hide_border=true" />
+</p>
