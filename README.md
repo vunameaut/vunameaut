@@ -49,19 +49,8 @@
 
 ---
 
-## 🐍 GitHub Activity Snake (Animated)
-<h2 align="center">Lịch sử đóng góp GitHub của tôi</h2>
+## 📅 Lịch sử đóng góp GitHub của tôi
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vunameaut/vunameaut/output/github-contribution-grid-snake-dark.svg" />
-</p>
+```
 
----
-
-## ✍️ Bài viết Blog
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🎯 Cảm ơn bạn đã ghé thăm profile!
+```
